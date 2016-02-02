@@ -1,0 +1,4 @@
+This is an example of HTML, CSS and JavaScript project. Use this as a referal material.
+Do not copy paste the content without understanding.
+
+www.linkedin.com/in/akhilsnair
